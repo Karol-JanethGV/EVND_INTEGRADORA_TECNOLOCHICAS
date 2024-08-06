@@ -2,7 +2,7 @@
 
 
 |    ![Imagen 1](https://github.com/Karol-JanethGV/EVND_INTEGRADORA_TECNOLOCHICAS/blob/main/Img/logo%20tec_Mesa%20de%20trabajo%201.jpg)    |    ![Imagen 2](https://github.com/Karol-JanethGV/EVND_INTEGRADORA_TECNOLOCHICAS/blob/main/Img/Logotipooo.jpg)    |
-| :----------------------------------: | :----------------------------------: |
+| :-------------------------------: | :----------------------------------: |
 |           Logo Desarrolladores       |           Logo Pasteleria         |
   
 
@@ -61,15 +61,14 @@ Ser la pastelería líder no solo en comercio físico; si no también en el plan
 
 ### Tipos de mercado
 
-- **Local:** La pastelería opera principalmente en una ubicación específica, como una ciudad o un barrio, Este mercado implica que la base principal sean los que viven cerca de la comunidad o en sus alrededores.
-- **Tipo:** Ofrecer pasteles para cumpleaños, reuniones familiares y eventos especiales.
-- **Producto:** Si tus productos están orientados a un público que valora ingredientes de alta calidad y técnicas de repostería avanzada.
-- **Sabor:** Ofrecer sabores de rellenos, pan , decoración que a los clientes les satisface y se tenga el objetivo de que vuelvan a comprar .
-- **Personalización:** Especializarse en pasteles altamente personalizados, enfocados en clientes dispuestos a pagar más por exclusividad y diseño único.
+- **Edad:** La pastelería opera principalmente para las personas con edad de 18 a 35 años
+- **Sexo:** Es mas para las mujeres ya que los hombres rara la vez llegan a pedir pasteles .
+- **Alcance:** El alcance de nuestros productos están orientados a un público que valora ingredientes de alta calidad y técnicas de repostería avanzada para satisfacer a todos nuestros clientes.
+
 
 ### Alcance del producto
 
-Que este Software se llegue a conocer con mucha gente y a la que no sepan de esta pastelería que la lleguen a conocer y conozca todos los servicios que ofrecemos y que esta empresa sea altamente reconocida con toda la comunidad y con los alrededores.
+Nuestra empresa de pastelería "Bakeri's Rob" se basa en una estrategia integral que combina innovación, calidad y sostenibilidad. Nos comprometemos a desarrollar una línea de productos que no solo deleite el paladar de nuestros clientes, sino que también responda a las tendencias emergentes del mercado. Planeamos introducir opciones saludables, como pasteles sin gluten y sin azúcar, para satisfacer la creciente demanda de productos más conscientes con la salud. Además, nos enfocaremos en prácticas sostenibles utilizando empaques biodegradables. A través de una fuerte presencia en redes sociales y una plataforma de comercio electrónico eficiente, buscaremos expandir nuestro alcance y atraer a una audiencia más amplia. Nuestra meta es convertirnos en un referente en el mercado de la pastelería, ofreciendo productos innovadores y de alta calidad que se adapten a las necesidades y preferencias de nuestros clientes, tanto a nivel local como nacional. 
 
 ### Funcionalidades
 El usuario al ingresar en la página Web dispone de atributos que van a dar referencia a apartados que representan la Pagina web, Producto, Menú principal, Precio, esto será referente a los datos de cada pastel que el usuario elija y a la vez de producto que se venderá, los atributos de entrada, administrador, Usuario, desarrollador, registro estos apartados nos ayudaran a los desarrolladores el poder tener un control y una base de datos más a fondo sobre nuestra página web.
